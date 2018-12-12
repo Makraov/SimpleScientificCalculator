@@ -1,4 +1,4 @@
-package studio.mythsart.hwj.calculator;
+package calculator;
 
 import java.util.ArrayList;
 import java.util.List;
