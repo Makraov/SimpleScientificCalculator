@@ -1,4 +1,4 @@
-package studio.mythsart.hwj.calculator;
+package calculator;
 
 public class SimpleAdapter {
 	private SimpleAdapter() {
