@@ -59,9 +59,9 @@ public class Scientific5Executor implements CalculatorExecutor {
 				tempNum = "";
 			}
 		}
-		/* trim space (bug) */
+		/* trim space */
 		for (int i = 0; i < stack.size(); i++) {
-			if (stack.get(i) == "") {
+			if (stack.get(i).equals("")) {
 				stack.remove(i);
 			}
 		}
